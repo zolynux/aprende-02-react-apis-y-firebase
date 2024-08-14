@@ -1,0 +1,19 @@
+html,
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+hr {
+  border: 2px solid seagreen;
+}
+
+.Card {
+  padding: 12px 30px;
+  background-color: #4f0397;
+  color: white;
+}
